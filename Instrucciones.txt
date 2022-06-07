@@ -1,0 +1,38 @@
+Ejercicios C# 2#
+
+1) Ingreso alumnos
+- Pedirle al usuarios cuantos alumnos desea ingresar
+- Se debe repetir el programa e ingresar las notas segun el numero de alumnos ingresados
+- Se debe pedir siempre la nota al menos una vez de un alumno
+- Hacer un intervalo limite de que la nota sea de 0 a 10 puntos
+- Si la nota ingresada es menor a 5 debe imprimir que es reprobado
+- Si la nota ingresada es mayor a 5 debe imprimir que esta aprobado
+
+2) Determinar Codigo Postal
+- El usuario debe poder introducir su código postal.
+- Se comprueba si el código postal tiene cinco dígitos.
+- Si no es el caso, se mostrará en la consola "Código postal no válido".
+- El codigo postal debe guardar el primer digito
+- Si el código postal es correcto, se determinará la región correspondiente y se mostrará en la consola.
+- Códigos postales: Empezando por 0 o 1 => Jutiapa
+- A partir de 2 => Peten
+- A partir de 3 => Zacapa
+- A partir de 4 o 5 => Cuidad Guatemala
+- Que empiece por 6,7,8 o 9 => Izabal
+
+3) Mostrar numeros primos
+- Programa para determinar que el numero ingresado por el usuario es primo o no
+- El numero primo, es un número natural mayor que 1 que tiene únicamente dos divisores positivos distintos: él mismo y el 1.​​
+
+4) Palabra que determine si una palabra es polindromo
+- El usuario debe ingresar una palabra o frase
+- La palabra o frase no debe de diferenciar mayusculas
+- Se deben reemplazar los espacios
+- Se debe de determinar que la palabra al inverso es igual a la palabra ingresada
+
+5) Suma de la matriz con numeros aleatorios
+- En este ejercicio colocar 10 filas y 8 columnas
+- Hacer que cada fila y columna tenga numeros random con un limite de 0 a 10
+- Hacer un bucle para hacer la suma de las columnas
+- Hacer otro bucle para hacer la suma de las filas
+-
